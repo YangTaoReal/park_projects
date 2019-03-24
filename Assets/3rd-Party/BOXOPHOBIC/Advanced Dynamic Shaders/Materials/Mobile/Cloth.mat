@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Cloth
+  m_Shader: {fileID: 4800000, guid: c20793c5222061c4b833c7b9dc35499c, type: 3}
+  m_ShaderKeywords: _ALPHAFROM_ALPHA _ALPHATEST_ON _EMISSION _ENABLEGLOBALMOTION_ON
+    _ENABLENORMAL_ON _ENABLESIGN_ON _ENABLESYMBOL_ON _ENABLEWINDMOTION_ON _ENABLEWIND_ON
+    _MATERIAL_STANDARD _MOTIONNOISE_ON _RENDERTYPE_CUT _SIGNMODE_MASK _SYMBOLMODE_MASK
+    _WINDMODE_GLOBAL
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTexture:
+        m_Texture: {fileID: 2800000, guid: 3eff9796fc48a1e4bbf3369bd5608176, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: df6fc4dee84a265438350a8f465fbc0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 72ad54e421175b6478ee511a3f554151, type: 3}
+        m_Scale: {x: 0.59, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTexture:
+        m_Texture: {fileID: 2800000, guid: df3a398213dacbc46bc2da420a0eef1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SignTexture:
+        m_Texture: {fileID: 2800000, guid: e314ec29dc8687b4c984b93b4013796f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SmoothnessTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SymbolTexture:
+        m_Texture: {fileID: 2800000, guid: 9f30c233026087244afe349779444873, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex3coord4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha: 0
+    - _AlphaBlend: 0
+    - _AlphaBlendON: 0
+    - _AlphaFade: 0.106
+    - _AlphaFade2: 0
+    - _AlphaFrom: 1
+    - _Angle: 0
+    - _BackFace: 0
+    - _BackLight: 0
+    - _BlackRemap: 0
+    - _BlendMode: 1
+    - _BumpScale: 1
+    - _CullMode: 0
+    - _CustomAxis: 1
+    - _Cutoff: 0.562
+    - _Cutoff2: 0
+    - _Cutout: 0
+    - _DepthWrite: 0
+    - _DetailNormalMapScale: 1
+    - _DoubleSided: 0
+    - _DstBlend: 0
+    - _EnableDebug: 0
+    - _EnableGlobalMotion: 1
+    - _EnableLocalMotion: 0
+    - _EnableNormal: 1
+    - _EnableSign: 1
+    - _EnableSymbol: 1
+    - _EnableWind: 1
+    - _EnableWindMotion: 1
+    - _Float0: 2
+    - _Float11: 1.92
+    - _Float2: 0.425
+    - _Float3: 2.34
+    - _Float4: 6.85
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _GrassTint: 1
+    - _LocalAmplitude: 0
+    - _LocalFrequency: 0
+    - _LocalScale: 0
+    - _LocalSpeed: 0
+    - _MaskAxis: 0
+    - _MaskMax: 1
+    - _MaskMin: 0
+    - _MaskType: 0
+    - _Material: 2
+    - _Metallic: 0
+    - _Mode: 1
+    - _MotionAmplitude: 0.05
+    - _MotionMask: 0
+    - _MotionNoise: 1
+    - _MotionScale: 2
+    - _MotionSpeed: 10
+    - _NoiseScale: 0.5
+    - _NormalScale: 1
+    - _ObjectBounciness: 0
+    - _ObjectStiffness: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _PolyversePropAxis: 1
+    - _PolyversePropDynamicPosition: 0
+    - _PolyversePropStaticPosition: 1
+    - _Rendering: 0
+    - _Shininess: 0.2
+    - _ShowMask: 0
+    - _ShowMotionDebug: 0
+    - _Show_MaskGeneric: 1
+    - _Show_MotionNoise: 1
+    - _SignHeight: 0.71
+    - _SignMode: 2
+    - _SignWidth: 0.877
+    - _Smoothness: 0
+    - _SmoothnessOffset: 0.51
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SymbolMode: 0
+    - _SymbolMultiplied: 0
+    - _SymbolRotation: 0
+    - _SymbolSign: 0
+    - _SymbolisSticker: 0
+    - _TexCoordAxis: 1
+    - _TexCoordDynamicPosition: 1
+    - _TexCoordStaticPosition: 0
+    - _Thickness: 0
+    - _Translucency: 0.12
+    - _Transparency: 0.2
+    - _UVSec: 0
+    - _VertexPosAxis: 1
+    - _WhiteRemap: 1
+    - _WindMask: 2
+    - _WindMode: 0
+    - _WindMode2: 0
+    - _WindMultiplier: 0.3
+    - _ZWrite: 1
+    - __dirty: 1
+    - _aaa: 0.22
+    m_Colors:
+    - _AlphaUV: {r: 0.5, g: 1, b: 0, a: 0}
+    - _AlphaUVs: {r: 1, g: 1, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseUV: {r: 2, g: 1, b: 0, a: 0}
+    - _Color: {r: 0.8897059, g: 0.8685912, b: 0.8308283, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LocalDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _MainUVs: {r: 1.4, g: 1.4, b: 0.38, a: 0.38}
+    - _MotionDirection: {r: 0, g: 0, b: 0, a: 0}
+    - _NormalUV: {r: 2, g: 1, b: 0, a: 0}
+    - _SignColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SignUV: {r: 1, g: 2, b: 1, a: 0}
+    - _SmoothnessUV: {r: 1, g: 1, b: 0, a: 0}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 0.19852942, g: 0.19852942, b: 0.19852942, a: 1}
+    - _SymbolColor: {r: 0.6911765, g: 0.18804067, b: 0.18804067, a: 1}
+    - _SymbolUV: {r: 1, g: 2, b: 1, a: 0}
+    - _SymbolUVs: {r: 1, g: 1, b: 0, a: 0}

@@ -1,0 +1,1915 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: 
+  m_assets:
+  - m_assetDatabaseId: 016c30d045312054f8e1c70c5e885478
+    m_importFrom: Assets/Scripts/Game/DB/CS_UpLevel.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6138a122c45541afb9813285d1c0fcf
+    m_importFrom: Assets/Scripts/Game/DB/CS_Language.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85fb67422cf06fc45abc9d6292aa4a65
+    m_importFrom: Assets/Scripts/Game/DB/CS_InOutPut.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 84a477d2f6e0b4aa6ac7dae99a2c96e7
+    m_importFrom: Assets/Scripts/Game/DB/CS_Disperse.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c7dab359682e6f4698e2179ba29bad4
+    m_importFrom: Assets/Scripts/Game/DB/CS_Buff.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e87260620d5441ef824a7a93b2b65b1
+    m_importFrom: Assets/Scripts/Game/DB/CS_Effect.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7877d0b7c137ac344bce66d6a64a8bdb
+    m_importFrom: Assets/StreamingAssets/GameData/GameDB.db3
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 27bcfc58618297a44a94063c67941b62
+    m_importFrom: Assets/Scripts/Game/DB/CS_DropList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a803a0982bcd14318b25ce9862c41090
+    m_importFrom: Assets/Scripts/Game/DB/CS_Guidance.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0259e1b9fbb32da4ebd4ab6f6be52713
+    m_importFrom: Assets/Scripts/Game/DB/CS_NPC.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86c8dc4b948b66342ae5a648a159e1f9
+    m_importFrom: Assets/Scripts/Game/DB/CS_GameEvent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a46585b170106643a1cd3376a89d0b7
+    m_importFrom: Assets/Scripts/Game/DB/CS_AssetBundleTable.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 99658afb93a25a644bcccc1cddf63e87
+    m_importFrom: Assets/Scripts/Game/DB/CS_Initialize.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f4fa10e753c08b4d9d494b124a893e5
+    m_importFrom: Assets/Scripts/Game/DB/CS_Items.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 121dd61edf6d64161a5019a8c91c42b7
+    m_importFrom: Assets/Scripts/Game/DB/CS_Model.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9b158ee78df4a34b875f1027265902a
+    m_importFrom: Assets/Scripts/Game/DB/CS_Task.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0fb1b8fe1a20dca4ab6e6baf7394d7a7
+    m_importFrom: Assets/Scripts/Game/DB/CS_Shop.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25b28baf010e6e044bdb5ef4e9e4f0b8
+    m_importFrom: Assets/Scripts/Game/DB/CS_Audio.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a05ac7bf7ec5a1e4ea9e4fd44ee0d739
+    m_importFrom: Assets/Scripts/Game/DB/CS_MapInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bde7fce0a4f72a447a6f70c36ee6905d
+    m_importFrom: Assets/Scripts/Game/GameState/GameState_PlayingComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 332a22d3be5fd9345b90b2fc0c8b4b57
+    m_importFrom: Assets/3rd-Party/UnityEngine.AssetGraph/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b3e582990c074c839c1fa8420833426
+    m_importFrom: Assets/3rd-Party/DialogueSystem/Plugins/Pixel Crushers/Dialogue
+      System/Demo/Data/ParkDialogueDatabase.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c77fed9573cdc4d94adf1c4c95520efb
+    m_importFrom: Assets/Scripts/Game/DialogueSystem/TriggerScriptObject.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5c3f72b1c7d7e8b42a61c550e15f5d5e
+    m_importFrom: Assets/Scripts/Game/App.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4195f7ca74d03645971a545b395ff13
+    m_importFrom: Assets/3rd-Party/DialogueSystem/Plugins/Pixel Crushers/Dialogue
+      System/Demo/Data/ParkDialogueDatabase (Auto-Backup).asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000003000000000000000
+    m_importFrom: ProjectSettings/TagManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000004000000000000000
+    m_importFrom: ProjectSettings/ProjectSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b5567000bba4041758a9e4e5c71bf3b1
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareMessengerGenericTemplateElement.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f5bfb5105ebb0a04f802a1f938ddf5a4
+    m_importFrom: Assets/Data/Model/Env/Anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ee2cf40310eb42e5a2d8ac3e86bdf50
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKAppGroupContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb799b50dc5d5e145984c1167862a739
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db6e57607b50f427794edab49f0ec61a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareVideoContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 903e57704243447cbbba4258555c688a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c62c53b06d80144d7a749a483a13342a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareConstants.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e4c1fd0bb042422a82428c2f8f4479f
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppLinkReturnToRefererView.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 56f275e07a2440319f9d6561ac43e9f7
+    m_importFrom: Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9093801032cb47e8a5636c8a81a6d80
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ab0201166ed5c74cb054f4ee134de6f
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Gameroom
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 28f13f2197d1a4f40aefbcf538cd7973
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKSharingValidation.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0747d731e8bee4f5dae2d199ec1bbc43
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKDeviceLoginCodeInfo.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1909461441b67348bdf7b88baadb914
+    m_importFrom: Assets/Data/Model/Building/Build_Chemical
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb78d4615f92748baa1dc6815e54e511
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c76d6071ebce242968f836ba00a9d3c7
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareLinkContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1fed5c71cad04344eaed73f149aca1d9
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce0a1081428e54459a8b624a798cfbd4
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0709f79196d64d11b8171d4ee0249cfe
+    m_importFrom: Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.95.0.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0df7abb13aa8b4794ab61b4e23aa0694
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKButton.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f4832c139e441d47bf4a369429b6dc1
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 146fb1f1c7a148e0a45842341619f416
+    m_importFrom: Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.95.0.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68a64ef1608034e5a9383a487f712d5b
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/Bolts.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d92df4029678844849e4fbc4a90b1ad6
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKDeviceLoginManagerResult.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae27fa02993ca4f10ae3e03a0b3504d4
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e0e7c852bf0a34941bf8a0da612f178e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a053cf5231afc471eaca4670b241ef04
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareDialog.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d86f87721facd4c628a62095d943b548
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKCameraEffectTextures.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 38279872964cef8478dae10a009a1d5a
+    m_importFrom: Assets/PlayServicesResolver
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cfc9bd726256c4140be9c38f52478e4b
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppLinkNavigation.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 493246b21ae6042d28a0d44b071b60a3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFCancellationTokenRegistration.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 58581db2ce50b43ba97a9433fa98994e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf4106c27c3b0471080937a3551dbbd9
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareButton.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: afa8cbc2c789e4e309154474a148d3c9
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKMeasurementEvent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35c2d8e2c24ed2a4d854b9d07d048288
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88df99f21d52a49afa1c3f70e46dc79a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Modules/module.modulemap
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9a25d03b1f684d23802c9f01e45d5b5
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Facebook.Unity.Android.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a16c41320fe54fe89f4908ef14751db
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKWebViewAppLinkResolver.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 51640a132dca6439f9d5e3351920f136
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFCancellationToken.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67cb5b2387b8e4ec9b2fa69ad9510e9b
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/AccessTokenMenu.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ba5f1337316e4a8c98f6c40947c5573
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aead30834362b490ea67fdd7fd0351c5
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS/fixup.projmods
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5797693245fd4bd0b320395b91671c6
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKAppInviteContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d181d6938470b4d6fb4f8659815bbb4a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/FBSDKCoreKit
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d27e99c3d618149418449c2728e17991
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKCameraEffectArguments.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 31f452f376ff7452198deafc9b34e67e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/Facebook.Unity.Android.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b91ad1448bc54b04a0661a4270b434d
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFGeneric.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20920064be54c4136ac4bcdc32966e9f
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKSendButton.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21b680645ca49426195625a5c9f7ce13
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Info.plist
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9dcd7641a982491192562be3d9e1e25
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/FBSDKLoginKit
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5c5f15942d33fad4d9d486ab6a78c80a
+    m_importFrom: Assets/Data/Scenes/Scene/App.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a2eb68b497f2e47838ea477179ff19a0
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 936dccb4117d745e1b2c62f15b7cd26e
+    m_importFrom: Assets/Data/UI/Anim/Cartoon
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f76be5c46da0042198827ffbb9f25313
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKCopying.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: afb418d43dcd244299be1debfad84cc0
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKProfile.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 263e12e4a1f64c50aa2d1261477517a1
+    m_importFrom: Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.95.0.dll.mdb
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f508cf4bd8b74c2fbebcdbda941ba06
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e1f1f459ec6449209203913339723a0
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareMessengerURLActionButton.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b570e85bff0c6d45bf08faf10b6097b
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d63e8e951e1c141f1b5116ed4566c3d3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareMessengerMediaTemplateContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8ffc77a5aab0748e085eb4540a40471e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFTaskCompletionSource.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 98ec9ca5e49729b438c3d5628de9764d
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Settings
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 16e9c0d5b61a749e78989192dc2483a9
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphValueContainer.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d1992d5bd82c4188a64171c3681d54c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFAppLinkNavigation.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb3941e587cff41359e69f77323df487
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Modules/module.modulemap
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e39eae5889de4cae88efb8e3afdf426
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/Facebook.Unity.IOS.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a7e9770643c164f579f21a2178577fc3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolving.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aaa36c2652b0a48c9899a6a0d69630ab
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFWebViewAppLinkResolver.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 625b68361b599435b9208a2d916e2ba3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKSharingContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03c6e2462014249c9b3e327fe84d8a5a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareAPI.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e27e6a4683c3f495cb79972214a5ca45
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFTask.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0b8e77661016e48899b388ddf07d23ac
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFURL.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b48328612308d644ad57a9732334fd8
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 56522f8645a584a44babd55f1f07bc4c
+    m_importFrom: Assets/FacebookSDK/SDK
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b53f0b6ff1624a6b8be4a02270e00d2
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareMessengerGenericTemplateContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fecb38b698184c4dbded45bace739c14
+    m_importFrom: Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.95.0.dll.mdb
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 442f8eb66b9244c628e0cddba16c1655
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppLinkTarget.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 076fe5c68059f42b78e1a5ea59ac9e62
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFAppLinkTarget.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73da41f60bced4e13bc126e5a9c9f158
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1f1c6cf62f72c45cda21e313e19dfd9a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd2eddf60983dee449442f71f55aa120
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de2d960757c8d46f88b76206866e657e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFMeasurementEvent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8bd06817fb38f8a4b87039d940ee14a3
+    m_importFrom: Assets/3rd-Party/FacebookSDK
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0535dc27e17d7c343962eb0fe2dbafa8
+    m_importFrom: Assets/PlayServicesResolver/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49c9325754d9248519e89d77941704e3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKSharingScheme.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f95ff57d40f249fe918a26b596e484b
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKMacros.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d6e1899725b3df04ca4caf90b8a41ba8
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Modules
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00616ba7847e9d04a8af539f6ba6813d
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 430419b7d04f24ce2b24e619235e7e19
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0d288f7589244050900cc64efb40041
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKLiking.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ba5bdf7d8fd34cf1a645b26cbc78488
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKConstants.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: baef85082ceb047a59bb0225a40bd93e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKLikeButton.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ac42f08f095e4acd81d50f4f6d32c22
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKDeviceLoginManager.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d48b91803b7f4897b4556a0c9a744fb
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Facebook.Unity.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93878c185b23a40d5a118f592535faec
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67c44228c30d4c3198971fa4375e857d
+    m_importFrom: Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.95.0.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 190c345841ecc464e9a122f04369757e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/DialogShare.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: be1eb4580a7778b4b902a0022e4382ad
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Modules
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aee94f58b9fd74efebc345e16db2a446
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFAppLinkResolving.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2328a58869dcd4f8e9f4f76c94dfd33c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Modules/module.modulemap
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64573b98526c344d0a76d335564a1bb5
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFCancellationTokenSource.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9cdca9a8a260ec5448dc0517955d0a3b
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Modules
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82742819962b44dc19ccd41d85137c7c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Info.plist
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dde98c194e902ec4fa9742330ccd18ae
+    m_importFrom: Assets/Data/Model/Building/Build_Chemical/Prefabs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 45d43889c8c46f1438e66b0ddaac9c56
+    m_importFrom: Assets/FacebookSDK/SDK/Resources
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 288eb88935e7a4b618adb947942fe2f3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKAppGroupJoinDialog.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 91da3ab9c8aa549c685ec93106d71d95
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Facebook.Unity.IOS.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e1e20c9974af41e396b3b45712c23cb
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareMessengerActionButton.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c38a8c9adc9d5c4b869612e4033ead8
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/MainMenu.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 87ad6ed9d1c4c4bc79c83313a55677b3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphAction.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 09a5ec1a20eac47e79b1bb420e2311f5
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKSettings.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1cdc04abed6f41adaff24e83c6074df
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0284a94adedd54742ae0e246225d8caa
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1101bf7a323af4593b1c8ce099b72824
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Bolts
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bdff348ae42025f4682f4cf24d75b1e0
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Textures
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76e84d9a6b6ca4de38c51d43f4796ac3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c4079ea1ecaa46b69e027352d2c6fe0
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphObject.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2bdf12b5aa844a67a2ce846ae860abe
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5fa0b52bec4a3b74b93a69550e9fa586
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63c6d52bf00b74f2f833e22b6ab57059
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a5ff33b76a0741178444c9aca3bac56
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKSharingButton.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 94b6516bcb73342cdae9b820326aac96
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFExecutor.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 263c458b80c324719a5525c28994813c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3095b78b33ddd46e29a57e3b170b8b36
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKSharePhotoContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a8a32fbbc2b044ae1b6b8eab74e4a9ea
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: abf483cb21f014df4acfbd26639f1f58
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKAppGroupAddDialog.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f0032ebb14b0524491c547a1d6fb9d1
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b5ca4eb824bf4addafc557816318c8a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/FBSDKShareKit
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0efd60fbc9ee04d78a69bd62e70fe753
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareMessengerOpenGraphMusicTemplateContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 951680fb3e92e4d15a54867852852ceb
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppLink.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb55e02c1d0b24abeaccdce903afb085
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKLikeControl.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9bd9e32c8f449804ba09abc9db2ebaf8
+    m_importFrom: Assets/Data/Scenes/Scene/PlayingScenes.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 451f982c65bab4055b4e7c087b63ee73
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareVideo.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ffef7b3c7a1a48d4abd5d1f1017b1ca4
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 01e0455caa4d20042ad8dc9d44edecf3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a2eb9b8c08e0b4998a320b5b95831637
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Info.plist
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbe6cb8c8ba11c94a87f7c0eaef1c0a9
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2250c9c5cf00425384401321f8dffb4
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/AppRequests.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a933b5ac537e10245a7db41a5f5b00fd
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 466f23bcac7344633a3e033239056ebc
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKGameRequestDialog.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 336211cca616de5488d1b086709d97ef
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f30b9cc9fc69ce48b39aa7f6a4e3248
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Modules
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2121fecebcc25943b8f262a0586de12
+    m_importFrom: Assets/FacebookSDK
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85695dfc1975459faa61dad3f4bf4efe
+    m_importFrom: Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll.mdb
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fca9970ddd6127247a64b39cad3edc4a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1948a41d511be425f9505eefb854e369
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareKit.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc7e6b2d3e7154e34bb3a6176beddd9e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKSharing.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1cb2cf3d94ae448a3a2ead8f93973d8f
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareCameraEffectContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 648cc04d996094a769b985fd8de63fad
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Editor/Facebook.Unity.Editor.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2da7b86d29e86495c8754f12b841f5e9
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cabb988da99a24458ac5501e06d254aa
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ef5a1e8d540b749ee97ccd16344d1a4d
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKURL.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ee189cdb21ea4bdb9d7022a0780c44c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Pay.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 444ae7ddf432b457a97bfe42021075e3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/GraphRequest.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96a6a1fd62d4f4ba79c359ba8db665b3
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKSharePhoto.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ecbcb2fdadcc64a2c975ad89931f295c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKHashtag.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4ac12dfde6570493291366d0ab3eb20d
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/AppLinks.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc751b3edf53044a3a767c4bcf7711fb
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKUtility.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1beb7e4efae1b4e8d87bb52689540adf
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/AppInvites.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fb31368eefcbb4ae89ac8771b49b5758
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKLikeObjectType.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca17d1aeac0414fd3a443f4c9577ad42
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eafc51beb92bf4dfea793044e282b16a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKGameRequestContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a6c5ebe5561749708df84bbcb09ee06
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKMessageDialog.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46b09deee414a4d8a9d31a220e1da165
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareDialogMode.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b96583fe9d2614f3081becbbd70cd55f
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68ab940fa15e34433bff18301686b080
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/AppEvents.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 69db9e0fea805044b8a8d919afe9bd40
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85ee804f11971ae43a03550bdef5a044
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f44f44f5335942e5b3c8f1df565619e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKAppLinkReturnToRefererController.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec55ea4fc7b53415290d2d838c241289
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Info.plist
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 28b97e5fbdb00524889ef7bb360774df
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a43a06f74179424db28209a4126de5c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 810f5b6fd6f7848ddbf1506c97ed1c92
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKAppInviteDialog.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e947258f660aa4f499a49599a527693d
+    m_importFrom: Assets/Scripts/Game/NPCManager
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bdef988f5110d4ea381af419658acd3a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Headers/FBSDKShareMediaContent.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a13de88f5a768473bb779df2f29998e9
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c07ff0bf6bea74c2eb681ac0cae44265
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/LogView.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 231c0ebf505d041fb8f7572285012b06
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/Bolts.framework/Headers/BFAppLink.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 854159cfe03140029b4db7786fbedd6a
+    m_importFrom: Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.95.0.dll.mdb
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78e2e7df086a344f1a4968ccd7c3b079
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/iOS/FBSDKShareKit.framework/Modules/module.modulemap
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2e97faff70957034a8f2465ab906986c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Canvas
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5713a50004077420b92fcd45e7a407a8
+    m_importFrom: Assets/Data/UI/Prefabs/UI_Bar/UIBar.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2531f11048de52c4db7362cc68fe89a3
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass04.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7efec820909508245a0d26d48d5cb91f
+    m_importFrom: Assets/Data/Model/Texture/Texture_01.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b0806d3085daa854da2eb5c7bfe7375f
+    m_importFrom: Assets/Data/UI/Textures/open/02_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 565f47506934242d484d9a6b4f8589c9
+    m_importFrom: Assets/Scripts/Game/GameEvent/GameEventManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee54ea60958c5c24db223e5ce11185e5
+    m_importFrom: Assets/Data/UI/Textures/open/13_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ddb9cc90b07b84708bc45ce309d550d5
+    m_importFrom: Assets/3rd-Party/MobileRTSCam/MobileRTSCam.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b81bc0b06b8f8478f8013d2a8453ae8b
+    m_importFrom: Assets/Scripts/QT-Framework/QT-Unity/Model/ModelManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 579da9b0d86946a4d9e35e8bd4687dae
+    m_importFrom: Assets/Data/Scenes/Materials/Prefabs/Env.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2e97f9b0b0a94ef4387f3f0b8010a072
+    m_importFrom: Assets/Data/UI/Textures/open/04_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30ea83d0b445cf74196d724b2aacac12
+    m_importFrom: Assets/Data/UI/Textures/open/11_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5b342e062d10c64d962053cd73726eb
+    m_importFrom: Assets/Data/UI/Textures/open/10_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f28f9112a7d44d3c999fbd95333abbb
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/MenuBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8a819c115e03b594db9f79f32d38723e
+    m_importFrom: Assets/Data/UI/Textures/open/04_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d06ba6218a8d2dd4c8d08fdfd0807a73
+    m_importFrom: Assets/Data/UI/Textures/open/13_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1372ca51065a70a4882f12deb8c67be1
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Tourist01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 40084471460f16d43b5f90f231fc6d17
+    m_importFrom: Assets/Data/Model/Env/Materials/Env_Stone.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3c0dd81ff77c4c30834810815c69f6d
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/AppEvents.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a0fbf3d128b5e584e9e6da4df56e0560
+    m_importFrom: Assets/Data/UI/Textures/open/03_05.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4769bad12062e9a448b25e9e9fa0a525
+    m_importFrom: Assets/Scripts/Game/UI/UI_PrefabPath.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4cc408e158eec46b28b93a44fc8819ff
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/AccessTokenMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 40a63b12fb3a44f0a9ec1197e240fa1a
+    m_importFrom: Assets/Scripts/Game/MapScripts/MapGridMgr.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d1160322eb6c9a4bbc747366fd12ca5
+    m_importFrom: Assets/Data/UI/Textures/open/11_04.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1279285233b374a90aa692c4ee112774
+    m_importFrom: Assets/Data/UI/Atlas/Sprite/Guidance/finger.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0b193462ff9af2f449ed947138128344
+    m_importFrom: Assets/Data/UI/Textures/open/03_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f08c9721703046ec883e57562184726
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/Pay.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f219f72f57835345a8cd2bf49e4a477
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass08.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b5c54a92acb53f04992e02d354cdf330
+    m_importFrom: Assets/Data/UI/Textures/open/05_06.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 982270b2b5218e649b4b41ee9fb33936
+    m_importFrom: Assets/Scripts/Game/UI/UISystem_Hall/UISystem_HallComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a2382f21bf3efd458cb5c15da625a0c
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col04.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88cf4b2325c684f7ba0ff8216c3415a6
+    m_importFrom: Assets/Scripts/Game/MapScripts/MapGrid.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 40d49333fd0c4674ba7b571586ea7efd
+    m_importFrom: Assets/Data/UI/Textures/open/09_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4ae878330bbd75b498159284a386ff7d
+    m_importFrom: Assets/Data/UI/Textures/open/04_03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33d36743cbb48a14dac1917ffb3634a9
+    m_importFrom: Assets/Data/Model/Building/Build_Chemical/Prefabs/Build_Chemical03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9bbad4a350bfc42dd85583095c10d702
+    m_importFrom: Assets/Scripts/QT-Framework/QT-Unity/Model/Animal.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 082728a314962c449b6737abb9a22883
+    m_importFrom: Assets/Data/UI/Prefabs/UIPopUpWindow_FastFeed/UIPopUpWindow_FastFeed.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18d574c3cb7294792898979c7aa2d29c
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_Page_1.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f0ab8c3827b441be9c9f0f3325983ff
+    m_importFrom: Assets/Scripts/Game/Data/Json.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2399a9c35d2584d659fb2acdba79fa36
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_11.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 407fd01401f05904286fcdb2a084a560
+    m_importFrom: Assets/Scripts/Game/UI/UIPage_Pack/UIPage_Pack_ItemComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64ce7a24ae3a37742a6d3e9bde4b47bb
+    m_importFrom: Assets/Scripts/Game/UI/UIPopUpWindow_Friend/UIPopUpWindow_FriendComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1da5c447b4af4ff2a7fe0309e8b7388
+    m_importFrom: Assets/Data/Shaders/CustomPlant.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 226708642e72642238c5450456caaabe
+    m_importFrom: Assets/Scripts/QT-Framework/QT-Unity/Model/ModelBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6e2955849e1b34c4794585e37d11270e
+    m_importFrom: Assets/Scripts/Game/GameEvent/OneGameEvent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cd7e1b94c184e4d4ca336f47ce6f4e97
+    m_importFrom: Assets/Data/UI/Textures/open/08_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0bc48fe401bfe5e48bbeac6fe6f23e8f
+    m_importFrom: Assets/Data/UI/Textures/open/06_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7565c405084334fa6bd4149cb90f408c
+    m_importFrom: Assets/Scripts/QT-Framework/QT-Unity/Model/Assistant.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9f0b7257fa054227be6e26bf1f6b339
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/AppLinks.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0a6a445d43d5405181b0a599a4f6ea1
+    m_importFrom: Assets/Scripts/Game/UI/UIPage_AnimalPlantOperation/UIPage_AnimalPlantOperationComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4011af4561e62a0429498389ddf84ab5
+    m_importFrom: Assets/Data/UI/Textures/open/01_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e93c4155902d3496399630ee494eab6b
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/DialogShare.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 627768b58628d35478de64d66b43e708
+    m_importFrom: Assets/Scripts/Game/DBManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3dc766d54f55f45c39cc176f40e2bf42
+    m_importFrom: Assets/Scripts/Game/UI/UIPage_Park/UIPage_ParkDetailComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f56e49f508474064088a8398b17a90b9
+    m_importFrom: Assets/Data/UI/Textures/open/12_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4dd36006ed9354bb68a12e83d14ae24c
+    m_importFrom: Assets/Data/UI/Textures/Icon/asset_gold.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 23c3cb06c2209474e9a8441e2712d5d2
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/GraphRequest.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 910cbe16250cb4363b70464c39fc701a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/LogView.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b77ee16d934846fbba460ff12aa1c73
+    m_importFrom: Assets/Scripts/Game/GameEvent/GameEventData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b314ff16157c8054fa7cdc113bfda861
+    m_importFrom: Assets/Data/UI/Textures/open/11_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0eac1926844ac5043a366bd4f2e0a536
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col08.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cc3b9446a58115e4eb74afe5dc0cb821
+    m_importFrom: Assets/Scripts/Game/UI/UIPopUpWindow_FastFeed/UIPopUpWindow_FastFeedComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2a177e5652b40e6428b9e6929766ccc4
+    m_importFrom: Assets/Data/UI/Prefabs/UIPage_WeatherInfo/UIPage_WeatherInfo.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8659f5605d094c19a8b7ef9471c3603
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/ConsoleBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a0c3f666571247a47a55bc8a8a51248d
+    m_importFrom: Assets/Data/UI/Atlas/Sprite/V2Common/F_btn00.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f2597669c97cfb448d351d77f087cf1
+    m_importFrom: Assets/Scripts/Game/UI/UIPage_Reclaim/UIPage_ReclaimComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 665c99767b0cdbb4ba9c907a408ca1ab
+    m_importFrom: Assets/Data/UI/Atlas/Sprite/V2Common/F_btn.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 164f3d865e4099a4badae709ad530665
+    m_importFrom: Assets/Scripts/Game/Player/Player.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c8c216b663ea04e37b9ba903c03bc9e3
+    m_importFrom: Assets/Data/Shaders/UtilGrass.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11bc19b69c5194bdebbe6bb6b44ca0d8
+    m_importFrom: Assets/Scripts/Game/NPCManager/NPCActor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 970fceb6421bcc44c914b1eafb4547af
+    m_importFrom: Assets/Data/UI/Textures/open/13_03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 13a792c60cbbf594bb849bd13df7af8c
+    m_importFrom: Assets/Data/UI/Textures/open/01_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 17b2bf2724e0e4e10abcff4067ed49cd
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_02.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eae2ad37887034d0b8a390306fd3a388
+    m_importFrom: Assets/Data/UI/Textures/Icon/asset_water.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 51dd6657151fac04a972212e7a0e78f8
+    m_importFrom: Assets/Data/UI/Textures/open/05_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 43f00e779592547699946adbcba58ab3
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_Page_3.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33f8be97e71d84eb99e8fd2184e61864
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_13.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ba12208dec5d8f4b930713097bc9a03
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Investors01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7fa8e40848265b343b787e3d6459e0fd
+    m_importFrom: Assets/Scripts/Game/Player/PlayerBasicAsset.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e6c80d18e18bc493dba540de0d5263b3
+    m_importFrom: Assets/Data/UI/Atlas/Sprite/Guidance/finger02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c1cbe828f376544c9a87bd6c6366777d
+    m_importFrom: Assets/Scripts/Game/UI/UIPopUpWindow_MessageBox/UIWastedForceWork.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c182b58cba4546908b81901ebd6ae8a
+    m_importFrom: Assets/Scripts/QT-Framework/QT-Unity/Model/Plant.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f077768fa4d886489426d9549a47885
+    m_importFrom: Assets/Data/UI/Textures/open/09_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4bd20d6810b66af42b0907d100ec3fd8
+    m_importFrom: Assets/Data/UI/Textures/open/04_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21321c78f23a9a147a973a58b8c51449
+    m_importFrom: Assets/Scripts/Game/UI/UIPage_Pack/UIPage_Pack_TemporaryItem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3aa34a9852e95f646b473f41cbf68566
+    m_importFrom: Assets/Data/UI/Textures/open/06_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7a3a2a88ba1e42fca94396ecfd3d95a
+    m_importFrom: Assets/Scripts/Game/UI/UI_Actor/UI_AssistantInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 922e3ad8d88a146b3b392cd8c84edd6a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/MainMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ada93109c7043904389474f5e9be46b1
+    m_importFrom: Assets/Data/UI/Textures/open/05_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9a1a4090c364f1448f6c0451eeb881e
+    m_importFrom: Assets/Data/UI/Textures/open/03_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9a5cc09c55ef47e4932487210736b3a
+    m_importFrom: Assets/Data/Shaders/MoblieGrass.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f181c2910e9365469f87c47a2590018
+    m_importFrom: Assets/Data/Model/Env/Grass/Texture/Noise 03.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbce10594f6f6e1468e308da58a00dc3
+    m_importFrom: Assets/Data/UI/Textures/open/09_03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21a83159f57c56a4d88442fb305cc955
+    m_importFrom: Assets/3rd-Party/LowPolyWater/Scripts/LowPolyWater.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64173e69968fc498588867e28a7c27b8
+    m_importFrom: Assets/Data/UI/Textures/open/all.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1deba3a9c8a28496e918f06386e6127f
+    m_importFrom: Assets/Data/UI/Prefabs/UIPopUpWindow_MessageBox/UIWastedAwardBox.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dab139a9396464e7e8bf3f91e8bffddf
+    m_importFrom: Assets/Scripts/Game/MapScripts/TileInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1409dbb9981828c48943472a3b14b774
+    m_importFrom: Assets/Data/Scenes/Materials/Prefabs/Mountain.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 190fd5c966178e44691229a29f65757c
+    m_importFrom: Assets/Data/UI/Prefabs/UISystem_Hall/UISystem_Hall.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d29a0d98af88c34aa7d23baf6e91c26
+    m_importFrom: Assets/Data/UI/Textures/open/10_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dabb91d912c63422980fcc559fae520a
+    m_importFrom: Assets/Scripts/Game/NPCManager/NPCManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 126e83d92dfd7a44da23f9cf4563a8f8
+    m_importFrom: Assets/Scripts/QT-Framework/QT-Common/MessageEvent/ObserverHelper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 490b28d9149d3854db1f6e25d5950741
+    m_importFrom: Assets/Data/UI/Textures/open/09_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c01cfde9a4c12b248af83b0572728ce6
+    m_importFrom: Assets/Data/UI/Textures/open/03_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 550f2df901380424f9e61637c58eb9bb
+    m_importFrom: Assets/Data/UI/Textures/open/08_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33a9321a8c46fa041bf665bcf17b9ec0
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Investors01_swim.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c22d81ad8eb6824bb4a98ebed165051
+    m_importFrom: Assets/Data/UI/Textures/open/08_04.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0fbe1d4a8abb04e3aba68207c3a3fd03
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_07.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73dbd68a2222f4e62b9586cb06b07607
+    m_importFrom: Assets/Data/Shaders/CustomGrass.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a6d9799a7532d2345a00e9e434ebf59e
+    m_importFrom: Assets/Data/UI/Textures/open/12_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6566dcaa3450ec14e86ca50a7e759677
+    m_importFrom: Assets/Data/UI/Textures/open/07_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 497d73daad9f64650a6b6bf8688ec605
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_05.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2578b44b7b9af2e42bcd3397085dc132
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col06.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e0798c6ba13c69e4fb2490c0295b7b89
+    m_importFrom: Assets/Data/UI/Textures/open/06_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9469667b6cea70145a0fdd94570f53f0
+    m_importFrom: Assets/Data/UI/Textures/open/11_03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c82af8b214f2d44b9d1d9def84d323c
+    m_importFrom: Assets/Data/UI/Textures/open/07_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: da3ff3cbe6607f346b9f16905218d2f8
+    m_importFrom: Assets/Data/UI/Textures/open/13_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35e2cacb86362487fb6b01ae1c7d69e6
+    m_importFrom: Assets/Scripts/Game/Animal/AnimalMove.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b75c96db60b997846804d999458783d6
+    m_importFrom: Assets/Data/UI/Textures/open/08_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f2bd1fb3a7ec4616b4311f171db577d
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Textures/White.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06937f2cd27257b4fa5b4df6d0fc848d
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3144d33cfd8d7514da1dea0ddd2443ff
+    m_importFrom: Assets/Data/UI/Textures/open/07_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67e5177cf0841444f95a48eeb5d27c46
+    m_importFrom: Assets/Data/UI/Textures/open/02_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4fedb1ac426694ec5adfeebbb36eb704
+    m_importFrom: Assets/Scripts/Game/Buff/BuffManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4927e4dcd27966c4ba7615f4c427f319
+    m_importFrom: Assets/Data/UI/Textures/open/05_02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc5d2dfc4899c5b47a2fb93c5da74d7b
+    m_importFrom: Assets/Scripts/Game/UI/UI_Helper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce97eefc5f78b456384f618af2d5e725
+    m_importFrom: Assets/Data/UI/Textures/Icon/asset_sun.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47dbdb0d54e25488da33d817e3c7024e
+    m_importFrom: Assets/Data/UI/Prefabs/UI_Animations/UI_Cartoon.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0084c92dd2ec246a8827c1d316a9b557
+    m_importFrom: Assets/Data/Model/Building/Build_Airport/Prefabs/Airplane_damage.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c47fb2d857cf47979741e97d72a7217
+    m_importFrom: Assets/Data/UI/Textures/Icon/asset_crystal.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 073b553dbc8a24457a4b2bf1b3d755ca
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_12.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 900d844d8e65c0548bc73a6a70e4c457
+    m_importFrom: Assets/Data/UI/Textures/open/12_03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1883c65dca2b88c43bd1b873af0eb3bc
+    m_importFrom: Assets/Scripts/Game/UI/UIPopUpWindow_FastFeed/UIFastFeed_ItemComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 19a37b5dec56e064e85f093eb5282ba7
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass06.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7076616df9d09437ba05157248163bfe
+    m_importFrom: Assets/Data/UI/Atlas/Sprite/V2Common/btnWastedAward.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 056ca07df52edaf4bb5bada634de2e18
+    m_importFrom: Assets/Data/Model/Building/Build_Home/Prefabs/Build_Home03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b6d7beade969c6544ab518708d807dc7
+    m_importFrom: Assets/Data/UI/Textures/open/05_05.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2dd0cfad778f94eecbb977b7abd5a0ec
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/AppInvites.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0be6eced243a0ef4ca12cb90c990be7f
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col09.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24cc1a0e832160a46b6a5089eee3f901
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Tourist04.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18b35b4e71583cb48a092f719fd067d3
+    m_importFrom: Assets/Data/UI/Textures/open/08_03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6405c95e8700cc4409b99544e580d2c5
+    m_importFrom: Assets/Data/UI/Atlas/Sprite/V2Common/F_btn01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: abac118e664c4b14fb6b5ea980f3efd8
+    m_importFrom: Assets/Data/UI/Textures/open/03_03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5cc472aedd2100c47b78dfa7340f7649
+    m_importFrom: Assets/Data/UI/Textures/open/05_03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 177060ce4203a4fe7b19a4c110be392c
+    m_importFrom: Assets/Scripts/Game/Scene/SceneLogic.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e9371decc2874ef3b7f3fde7f0a633a
+    m_importFrom: Assets/Scripts/Game/DialogueSystem/DialogueManagerComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0cb51cde8e42d4a6f8aac1d76812f113
+    m_importFrom: Assets/Scripts/Game/UI/UI_Bar/UIBar.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac1d50fe51b29824e81361d7af1ce172
+    m_importFrom: Assets/Data/UI/Textures/open/05_04.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 420b2d0f8673b410cb67219de52ecf2a
+    m_importFrom: Assets/Scripts/Game/Data/DataManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f0e0c3f3061353458774586990867ea
+    m_importFrom: Assets/Data/UI/Textures/open/03_04.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b4c675f81a254b87adc8ad01006c580
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Examples/Scripts/SubMenus/AppRequests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1385516fca86c4740974b19e31675f42
+    m_importFrom: Assets/Scripts/Game/Weather/Weather.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3dc3646f09c8e8a4f82abdf06c6f5381
+    m_importFrom: Assets/Data/UI/Textures/open/10_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10b2689f76108d74faa4c2735545b80f
+    m_importFrom: Assets/Data/UI/Textures/open/11_01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7fb487cfa6818044b9d1232aa3c2417c
+    m_importFrom: Assets/Data/UI/Textures/open/12_BG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 868799dfbd3c97d4ca1483b789023279
+    m_importFrom: Assets/Scripts/Game/UI/UIPage_WeatherInfo/UIPage_WeatherInfoComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4bce9ef022005c44bb455393b656dc1
+    m_importFrom: Assets/Data/Model/Env/Grass/Texture/Noise 03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a2b89ff438664c4d8390f97e8fb97eb
+    m_importFrom: Assets/Data/Model/Env/Grass/Texture/Grass_03.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b4503f80359799a4bbcb80bfa0581cab
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col05.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 842e69d0fb007bd468d4405452fa767e
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 103a7411642414e8084e31fdcae2e09d
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_13.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c47639218b5391c40a5c7ec57f2ee049
+    m_importFrom: Assets/Data/Model/Env/Anim/WastlandAnim.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 853fc541aa274d449b139d19d76a1381
+    m_importFrom: Assets/3rd-Party/DialogueSystem/Plugins/Pixel Crushers/Dialogue
+      System/Prefabs/Art/Animation/Canvas Group Animator/Focus.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92e5b151a7e3845b2b2a9f3d2baf0e46
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-places.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1e9a76113fab4bd39fd4f7b39e2f757
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Canvas/CanvasJSSDKBindings.jslib
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f3d4eb6128bab4d3eb101b55d86977f6
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_03.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: deb16e61fb55e5a4b8c2c7064ee1f592
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Treedead_Col02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cccdd57195e7e204983240acb5fa753f
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Tree_Col06.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efe9f1811cbe94251af0db3b2a01815c
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_08.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf2b4c81e9f51b84183d8f3615a0da0b
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass09.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a3d046b1457d1491abacc4f813454150
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_Page_2.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a434e1d1d537d42f9ad9db94a895bf1f
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-marketing.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dee694f1e2f62a141bd2f734ee50b3b0
+    m_importFrom: Assets/Data/Model/Env/Grass/Env_Grass01.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2636b3029d95c744ba8f8c584dde451b
+    m_importFrom: Assets/Data/Model/Building/Build_Chemical/Build_Chemical03.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aad83c022f3170849bab5ba3853bc7f1
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Tree_Col02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5b0e1182f5e3d8443b832ae4a68af2ba
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 977cd382065324c5c96fd4573aaeb4e2
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_05.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbc51482e3ca248329707d61959f9d9d
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS/FBUnitySDKDelegate.m
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d04459826a6520f4ba7c6c57a69c726b
+    m_importFrom: Assets/Data/Model/Env/Anim/WastlandAnim.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c94f36a21787c4b5a9c7ef655b3f3051
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_06.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7461bcc2e2c714a03a3f60d68ec79369
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS/FBUnitySDKDelegate.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6e0c4de23b1b20c46b879e5c7bb09a06
+    m_importFrom: Assets/Data/Model/Building/Build_Chemical/Prefabs/Build_Chemical01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0fd85f26876d524d94d61ea7fb9d0f0
+    m_importFrom: Assets/Data/UI/Atlas/UIAtlas.spriteatlas
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93aa6b33b25514c44be9473fd5812c20
+    m_importFrom: Assets/Data/Model/Env/Env_Flower06.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c08a6435c44a47debdc817d1bbf072a
+    m_importFrom: Assets/Resources/MapData/Map_Grass.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c387bd83596d91d46ba8fefa9cdce867
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce1b40932ef7d45d2bc74eb8854b3c76
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_03.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 27bdf2e319e3359428946e6f48e8dac6
+    m_importFrom: Assets/Data/Model/Characters/NPC/Animations/Animator/Ani_Npc_Expert01.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f938b52490c4a7849bf6e3a3131a2af2
+    m_importFrom: Assets/Data/UI/Prefabs/UIPopUpWindow_Friend/UIPopUpWindow_Friend.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1076b54cbda54b8d8324c73108edfe8
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_2.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2cc466e4eb8fed64ab18ddd1e47b23e1
+    m_importFrom: Assets/Data/Model/Env/Env_Flower03.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f37f9a05539fb4dae9ddfc37b2c43218
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_10.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62b8011547f389344ba48f87b2ada51c
+    m_importFrom: Assets/3rd-Party/DialogueSystem/Plugins/Pixel Crushers/Dialogue
+      System/Prefabs/Art/Animation/Canvas Group Animator/Canvas Group Animator Controller.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b4c3481522fc0469281ffe217f70a962
+    m_importFrom: Assets/Data/MapEditor/_Brushes/Wasteland Brush.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b4293035a4813cc47aee130ba6b6674d
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Tree_Col05.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ad42f756ee8b48a1bb1e2321fbc97cc
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_10.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4c29c5d59509848c4bc24c13ac976932
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS/FBUnityInterface.mm
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2ef88e5374ef604f8ab8c92549a4d7f
+    m_importFrom: Assets/Data/Audio/NPC_assistant_tired.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbc63836eb1f4394ba531ffd23db1e10
+    m_importFrom: Assets/Plugins/Android/AndroidManifest.xml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7855d3462261a4cec898a6e1553dfed1
+    m_importFrom: Assets/Data/MapEditor/Arrow.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b4469d6625a664618b68231ee0dcc093
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS/FBUnityUtility.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc5be6763d8904341807e7ee8ad55f64
+    m_importFrom: Assets/Data/Model/Building/Build_Chemical/Build_Chemical02.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 701f1c86a4a92574f8764c5b44f728dd
+    m_importFrom: Assets/Data/Model/Env/Grass/Materials/Env_Grass01.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 07d07496562a54a62b3c5539da21b9fa
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-common.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d509cb963715a487cbfb1da4c2a74998
+    m_importFrom: Assets/Data/Audio/NPC_assistant3.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fe9978b66ab970f41b6efe882a1fa9e3
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass07.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8de64c6c670e8243affd76575ce85e4
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Tourist02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9395d5074105b4bf5bb3f25a7daf0d6a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/bolts-tasks-1.4.0.jar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 89eee917049a34ba5a42d44b7049f318
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_07.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9c5ca57c29774daf977fb80d5f74057
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-login.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bcccbb5743b96874fa04f667f0f53112
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Assistant01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 487d4e57c4e343f47b248baf7a120752
+    m_importFrom: Assets/Data/Model/Characters/NPC/Animations/Animator/Ani_Npc_Tourist.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b8f34d74d4424f06a77d3deb9e49f04
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_02.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 575610e73033e4917bed90ee1df4806c
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-core.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44f20fe7f41dc461f813fbe704624fd4
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-android-wrapper-7.15.0.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de78f7f7b30f4cf47bdf88ac6acac613
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Tourist03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a1f2838dc8394f278f74a5ea742a2b4
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_09.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1d06788c7c7a4868873e7147082ed11
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_01.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc3ddd09b0566ba42b433d2ddcd62aac
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass05.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9ff9f619913e9473fa0300b946d86ae9
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_01.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 926039296cd04df46a53a5bf28b52f7d
+    m_importFrom: Assets/FacebookSDK/SDK/Resources/FacebookSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5f86c2393ac384f49a79d5d945fd83ae
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-messenger.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f167aa59e90b32347b8e5b743c882474
+    m_importFrom: Assets/Data/Model/Building/Build_Home/Prefabs/Build_Home02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93346489c3e485e418ca1238ec953aad
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass11.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4ab498970159461f85b84bcd6d680e7
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-applinks.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46e5f7a9ebe82cb4d89928c245a8d1f8
+    m_importFrom: Assets/Data/Model/Env/Env_Flower02.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f87d07b98303781419266ccc6e492199
+    m_importFrom: Assets/Data/Model/Env/Materials/Env_plants.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e1f7f31a107af8b4ba2e73cfb45ba5fe
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass10.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad9abf2a4af9a44f5a5619f301ba9206
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/bolts-applinks-1.4.0.jar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a8213e6acca404d7e962a98ce6b3d2ae
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_Center.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3c7970da9c9e7254cbd09a5d842ee015
+    m_importFrom: Assets/Data/Model/Building/Build_Chemical/Build_Chemical01.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d05e41daf65a9a644bd8e3fd1439d702
+    m_importFrom: Assets/Data/UI/Prefabs/UIPopUpWindow_FastFeed/UIFastFeed_Item.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 140191ea3490a9c4ea3663f97f26f5c4
+    m_importFrom: Assets/Data/Model/Env/Env_Flower01.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d48d0bfa626677045a65d71b89422cc5
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Tree_Col03.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a22a00b4bb9f674293fbfb9658ddb5e
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col07.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b1a260b5097f03459cf718524db81b7
+    m_importFrom: Assets/Data/UI/Prefabs/UIPage_Reclaim/UIPage_Reclaim.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e95ed0b1efb8cc4faab970fdb4b492e
+    m_importFrom: Assets/Data/Model/Characters/NPC/Animations/Animator/Ani_Npc_Assistant01.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cc1dd83bab1f2a64cae6c0ccf84c7259
+    m_importFrom: Assets/Data/Model/Characters/NPC/Animations/Animator/Ani_Npc_Reporter01.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b408215b5e34b4dbe9368e98f4b4d818
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_1.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 850ec15b3427e41bdaa4045364fba006
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_11.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7242b8b0ea8dbc4686e75f042265aa2
+    m_importFrom: Assets/Data/Model/Characters/NPC/Animations/Animator/Ani_Npc_Investors01.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a54989bbee6fd4f8e8d4aff2e3f8e945
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_12.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 66952bdb75cae4c348f3d0521da59bfd
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS/FBSDK+Internal.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fcac99fb2388cda46b2cf9227acbc2f2
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Reporter01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c155b36cdad711744ab38ee88ef6fee0
+    m_importFrom: Assets/Data/Audio/NPC_assistant_spirit.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 51f4619c385224a23a3edb9092c7d49b
+    m_importFrom: Assets/3rd-Party/FacebookSDK/link.xml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad6ad5ac99ac9244db233e9efa2b8003
+    m_importFrom: Assets/Data/Model/Characters/NPC/Prefabs/Npc_Expert01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 511e95bcdad89425999ccbb3e315246a
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS/FBUnityInterface.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 916ff33d9eb84dd29ae80bfdecc20f79
+    m_importFrom: Assets/PlayServicesResolver/Editor/play-services-resolver_v1.2.95.0.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d4e6aad8eb184351a9d94c0ab76508e
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/bolts-android-1.4.0.jar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77bd65bd57d6ce14fb51f29d2f10d740
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Tree_Col07.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd6577bda25ef9c49b524596a8b76f84
+    m_importFrom: Assets/Data/Model/Building/Build_Chemical/Prefabs/Build_Chemical02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f120acdf6bc9429aa6845b98f0959a0
+    m_importFrom: Assets/Resources/MapData/Map_Wastedland.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a26b21eb0cda8c4e8c860817c43e449
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Grass02.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d673043e9ea814dd2b629e0283c7edf8
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_3.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6e31c8e2088046989958c7aab7e6019
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_Center.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4dbefae82211b447bbe67df91601244
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Tree_Col01.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 693f8dbee96ba4885add8eeef5d847f4
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_09.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e8874fee2a784919b4c65fbc50e17ba
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_04.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de569b0f9652a4a9a90e6ea997a5ef44
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_06.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8cc0c58f922ce49298f8276b62d41963
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Node_04.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5cafb2af7ca9641f58022a816236d1ad
+    m_importFrom: Assets/3rd-Party/FacebookSDK/SDK/Editor/iOS/FBUnityUtility.mm
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b90d3cafb6bc5d945ae6d4d396ac4b53
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Tree_Col04.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b2f08cfc45bf4cee898934bc842dd5f
+    m_importFrom: Assets/Data/Model/Characters/_controller.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8f3e7ff8b8cc43af9116ec91618280e
+    m_importFrom: Assets/Data/UI/Anim/Cartoon/Cartoon_08.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4076cff01c29438eb536db171ca461f
+    m_importFrom: Assets/3rd-Party/FacebookSDK/Plugins/Android/libs/facebook-share.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: facf1dffd1760aa4884855a8b9f576bd
+    m_importFrom: Assets/Data/Model/Env/Grass/Prefabs/Env_Rock_Col03.prefab
+    m_exportTo: 
+    m_variantName: 
+  m_version: 2

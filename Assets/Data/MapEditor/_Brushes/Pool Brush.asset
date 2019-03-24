@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eac26cb901f44e8aa1d9554680b6b53, type: 3}
+  m_Name: Pool Brush
+  m_EditorClassIdentifier: 
+  m_Prefabs:
+  - {fileID: 1805586991036094, guid: 06c14a2323a714c4a8d39068885aa8bd, type: 2}
+  - {fileID: 1876219237404566, guid: a0d824104714373498156e963cb976ad, type: 2}
+  - {fileID: 1780620273853596, guid: cf382011ec7c60c43a8e8dd935cb5c46, type: 2}
+  m_Z: 0
+  m_Level: 0

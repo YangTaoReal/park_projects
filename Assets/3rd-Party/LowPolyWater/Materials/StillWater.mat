@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: StillWater
+  m_Shader: {fileID: 4800000, guid: 32a20430b41e0fb428a2bd177df8e106, type: 3}
+  m_ShaderKeywords: _EDGEBLEND_ON _SHADING_FLAT _WAVES_OFF
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FresnelTex:
+        m_Texture: {fileID: 2800000, guid: a94a61d94fe3f634ba7c1d1f93109823, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 72b0d7842bc4a974cb58bbf5cc369a5d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Direction: 180
+    - _EdgeBlend: 1
+    - _Gloss: 0.134
+    - _Height: 1
+    - _Height_: 1
+    - _Length: 3.3
+    - _Opacity: 0.95
+    - _RHeight: 0.2
+    - _RHeight_: 0.2
+    - _RSpeed: 1
+    - _RSpeed_: 1
+    - _Scale_: 1
+    - _Shading: 0
+    - _ShoreDistance: 0.49
+    - _ShoreIntensity: -0.2
+    - _Smoothness: 0.86
+    - _Specular: 2.24
+    - _Speed: 0.5
+    - _Speed_: 0.5
+    - _Steepness: 0.5
+    - _Stretch: 10
+    - _TexSize_: 64
+    - _Waves: 0
+    - _ZWrite: 0
+    - __Height: 1
+    - __RHeight: 0.25
+    - __RSpeed: 1
+    - __Scale: 1
+    - __Speed: 0.5
+    - __TexSize: 64
+    m_Colors:
+    - _Color: {r: 0.227451, g: 0.72156864, b: 0.9725491, a: 1}
+    - _Direction_: {r: -1, g: -0.00000008742278, b: -1.65, a: -0.00000014424758}
+    - _ShoreColor: {r: 0.878, g: 0.98022306, b: 1, a: 1}
+    - _SpecColor: {r: 1, g: 0.9979716, b: 0.9264706, a: 1}
+    - __Direction: {r: -1, g: -0.00000008742278, b: -1.65, a: -0.00000014424758}

@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 57e6664cb2ef60e47ba56282bf6a4013
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: grou_020001
+    100002: grou_020002
+    100004: grou_020003
+    100006: grou_020004
+    100008: grou_020005
+    100010: //RootNode
+    100012: Ground_Grass01
+    100014: Ground_Grass02
+    100016: Ground_Grass03
+    100018: Ground_Grass04
+    100020: Ground_Grass05
+    400000: grou_020001
+    400002: grou_020002
+    400004: grou_020003
+    400006: grou_020004
+    400008: grou_020005
+    400010: //RootNode
+    400012: Ground_Grass01
+    400014: Ground_Grass02
+    400016: Ground_Grass03
+    400018: Ground_Grass04
+    400020: Ground_Grass05
+    2100000: Texture_01
+    2300000: grou_020001
+    2300002: grou_020002
+    2300004: grou_020003
+    2300006: grou_020004
+    2300008: grou_020005
+    2300010: Ground_Grass01
+    2300012: Ground_Grass02
+    2300014: Ground_Grass03
+    2300016: Ground_Grass04
+    2300018: Ground_Grass05
+    3300000: grou_020001
+    3300002: grou_020002
+    3300004: grou_020003
+    3300006: grou_020004
+    3300008: grou_020005
+    3300010: Ground_Grass01
+    3300012: Ground_Grass02
+    3300014: Ground_Grass03
+    3300016: Ground_Grass04
+    3300018: Ground_Grass05
+    4300000: grou_020001
+    4300002: grou_020002
+    4300004: grou_020003
+    4300006: grou_020004
+    4300008: grou_020005
+    4300010: Ground_Grass01
+    4300012: Ground_Grass02
+    4300014: Ground_Grass03
+    4300016: Ground_Grass04
+    4300018: Ground_Grass05
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

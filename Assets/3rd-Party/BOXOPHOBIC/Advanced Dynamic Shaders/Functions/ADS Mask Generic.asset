@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: ADS Mask Generic
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15500\n1927;29;1906;1014;3177.302;1167.33;1.3;True;False\nNode;AmplifyShaderEditor.CommentaryNode;48;-1202,-946;Float;False;302;165;For
+    Debug Only;1;47;;1,0,0,1;0;0\nNode;AmplifyShaderEditor.SaturateNode;28;-1344,-464;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;46;-896,-640;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;27;-1344,-560;Half;False;Constant;_Float4;Float
+    4;21;0;Create;True;0;0;False;0;1;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.VertexColorNode;17;-2272,-480;Float;False;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.RangedFloatNode;19;-2272,-320;Half;False;Property;_MaskType;Mask
+    Type;0;1;[Enum];Create;True;2;Vertex Red;0;ADS Object;1;0;False;1;Space(10);0;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;22;-2560,-496;Half;False;Property;_MaskAxis;Mask
+    Axis;1;1;[Enum];Create;True;3;X Axis;0;Y Axis;1;Z Axis;2;0;False;0;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.LerpOp;42;-1920,-640;Float;False;3;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;30;-1344,-640;Half;False;Constant;_Float5;Float
+    5;21;0;Create;True;0;0;False;0;0;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;23;-1920,-496;Half;False;Property;_MaskMin;Mask
+    Min;2;0;Create;True;0;0;False;1;Space(10);0;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;44;-1600,-512;Float;False;Remap
+    To 0-1;-1;;266;5eda8a2bb94ebef4ab0e43d19291cd8b;0;3;6;FLOAT;0;False;7;FLOAT;0;False;8;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;24;-1920,-416;Half;False;Property;_MaskMax;Mask
+    Max;3;0;Create;True;0;0;False;0;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.LerpOp;31;-1152,-640;Float;False;3;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;49;-2560,-640;Float;False;3;3;0;5;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.RangedFloatNode;47;-1152,-896;Half;False;Property;_Show_MaskGeneric;Show_MaskGeneric;4;1;[HideInInspector];Create;True;0;0;True;0;1;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;50;-2272,-640;Float;False;Enum
+    Switch;-1;;267;d0ffb2eb7ab9dbe45bba7a4f97d686ac;1,34,1;12;25;FLOAT;0;False;7;FLOAT;0;False;29;FLOAT;0;False;8;FLOAT;0;False;18;FLOAT;0;False;28;FLOAT;0;False;17;FLOAT;0;False;10;FLOAT;0;False;30;FLOAT;0;False;11;FLOAT;0;False;20;FLOAT;0;False;15;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;-704,-640;Float;False;True;Mask;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;28;0;44;0\nWireConnection;46;0;47;0\nWireConnection;46;1;31;0\nWireConnection;42;0;17;1\nWireConnection;42;1;50;0\nWireConnection;42;2;19;0\nWireConnection;44;6;42;0\nWireConnection;44;7;23;0\nWireConnection;44;8;24;0\nWireConnection;31;0;30;0\nWireConnection;31;1;27;0\nWireConnection;31;2;28;0\nWireConnection;50;25;22;0\nWireConnection;50;18;49;1\nWireConnection;50;17;49;2\nWireConnection;50;20;49;3\nWireConnection;0;0;46;0\nASEEND*/\n//CHKSM=86C76024B66DC1B2690F74CB68D652ECEB9B3C2F"
+  m_functionName: 
+  m_description: 'Generic Mask for Vertex Animation:
+
+    - Vertex Color Red support
+
+    - Vertex Position XYZ support'
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 0
+  m_customNodeCategory: Advanced Dynamic Shaders
+  m_previewPosition: 0

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 304962729324145098899959698a5452, type: 3}
+  m_Name: Soil Brush
+  m_EditorClassIdentifier: 
+  editGameObjects:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_Z: 0
+  auto: 1
+  m_drawTile: 0
+  m_gameObjects:
+  - {fileID: 114564636617917284, guid: 397d74f14b59575499c436ef079c307e, type: 2}
+  - {fileID: 114956034624416018, guid: e8480ab4eebb43b4a8b161e9607c1507, type: 2}
+  - {fileID: 114335865851357138, guid: b447164a94ac77a4e8f9f9a78199881d, type: 2}
+  - {fileID: 114539065802317522, guid: 8d0d984c8bce22d4cbc6805de9c26b7c, type: 2}
+  - {fileID: 114052588438560094, guid: 9f56b94c0baa34444a219871aae113f0, type: 2}

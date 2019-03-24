@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: f4befe53f59837f40a3b4b099468e6e8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: character_01
+    21300002: e
+    21300004: h
+    21300006: i
+    21300008: Image01
+    21300010: Image02
+    21300012: Image03
+    21300014: Image04
+    21300016: Image05
+    21300018: Image06
+    21300020: Image07
+    21300022: Image08
+    21300024: Image09
+    21300026: Image10
+    21300028: Image11
+    21300030: Image12
+    21300032: Image13
+    21300034: Image14
+    21300036: n
+    21300038: o
+    21300040: p
+    21300042: x
+    21300044: er
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 230
+        width: 448
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: e
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 46
+        width: 43
+        height: 75
+      alignment: 9
+      pivot: {x: 0.20930232, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: er
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: h
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 27
+        width: 42
+        height: 75
+      alignment: 9
+      pivot: {x: 2.5714285, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: i
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 175
+        width: 17
+        height: 75
+      alignment: 9
+      pivot: {x: -5.352941, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image01
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 169
+        width: 122
+        height: 59
+      alignment: 9
+      pivot: {x: 0.80737704, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image02
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 202
+        width: 84
+        height: 26
+      alignment: 9
+      pivot: {x: 0.83928573, y: 0.8076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image03
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 62
+        height: 36
+      alignment: 9
+      pivot: {x: 1.4112903, y: 0.7777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image04
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 34
+        width: 60
+        height: 47
+      alignment: 9
+      pivot: {x: 1.4916667, y: 1.3191489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image05
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 104
+        width: 57
+        height: 82
+      alignment: 9
+      pivot: {x: 1.4298246, y: 1.2439024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image06
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 116
+        width: 108
+        height: 50
+      alignment: 9
+      pivot: {x: 0.8657407, y: 2.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image07
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 150
+        width: 99
+        height: 78
+      alignment: 9
+      pivot: {x: 0.9040404, y: 1.9230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image08
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 21
+        width: 44
+        height: 100
+      alignment: 9
+      pivot: {x: -0.03409091, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image09
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 134
+        width: 91
+        height: 98
+      alignment: 9
+      pivot: {x: -0.082417585, y: 1.5306122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 141
+        width: 71
+        height: 109
+      alignment: 9
+      pivot: {x: -0.38732395, y: 0.9174312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 72
+        width: 61
+        height: 70
+      alignment: 9
+      pivot: {x: -0.6147541, y: 0.8857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 145
+        width: 95
+        height: 83
+      alignment: 9
+      pivot: {x: -0.036842104, y: 0.27710843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 115
+        width: 96
+        height: 75
+      alignment: 9
+      pivot: {x: -0.026041666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Image14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 127
+        width: 46
+        height: 101
+      alignment: 9
+      pivot: {x: -0.07608695, y: -0.48514852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: n
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 64
+        width: 42
+        height: 75
+      alignment: 9
+      pivot: {x: -0.97619045, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: o
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 56
+        width: 42
+        height: 75
+      alignment: 9
+      pivot: {x: 1.3809524, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: p
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 33
+        width: 42
+        height: 75
+      alignment: 9
+      pivot: {x: 3.7380953, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: x
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 31
+        width: 41
+        height: 75
+      alignment: 9
+      pivot: {x: -2.8292682, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

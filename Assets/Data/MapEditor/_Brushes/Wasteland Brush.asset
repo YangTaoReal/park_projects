@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b940be5e4c1b0405fbef0b860d80d729, type: 3}
+  m_Name: Wasteland Brush
+  m_EditorClassIdentifier: 
+  groundType: 0
+  m_grass:
+  - {fileID: 114808568268326578, guid: 06937f2cd27257b4fa5b4df6d0fc848d, type: 2}
+  - {fileID: 114313301015331876, guid: 5a26b21eb0cda8c4e8c860817c43e449, type: 2}
+  - {fileID: 114283816942221130, guid: c387bd83596d91d46ba8fefa9cdce867, type: 2}
+  - {fileID: 114158917154332040, guid: 2531f11048de52c4db7362cc68fe89a3, type: 2}
+  - {fileID: 114440622903541706, guid: fc3ddd09b0566ba42b433d2ddcd62aac, type: 2}
+  - {fileID: 114125865507807464, guid: 19a37b5dec56e064e85f093eb5282ba7, type: 2}
+  - {fileID: 114100457548450120, guid: fe9978b66ab970f41b6efe882a1fa9e3, type: 2}
+  - {fileID: 114882413178883036, guid: 0f219f72f57835345a8cd2bf49e4a477, type: 2}
+  - {fileID: 114764080089427176, guid: bf2b4c81e9f51b84183d8f3615a0da0b, type: 2}
+  - {fileID: 114937344870193132, guid: e1f7f31a107af8b4ba2e73cfb45ba5fe, type: 2}
+  - {fileID: 114739922946618912, guid: 93346489c3e485e418ca1238ec953aad, type: 2}
+  m_tree:
+  - {fileID: 114300671600796160, guid: f4dbefae82211b447bbe67df91601244, type: 2}
+  - {fileID: 114674025732176132, guid: aad83c022f3170849bab5ba3853bc7f1, type: 2}
+  - {fileID: 114913839066336110, guid: d48d0bfa626677045a65d71b89422cc5, type: 2}
+  - {fileID: 114412497165998460, guid: b90d3cafb6bc5d945ae6d4d396ac4b53, type: 2}
+  - {fileID: 114461734022678752, guid: b4293035a4813cc47aee130ba6b6674d, type: 2}
+  - {fileID: 114914874369683074, guid: cccdd57195e7e204983240acb5fa753f, type: 2}
+  - {fileID: 114392708570426458, guid: 77bd65bd57d6ce14fb51f29d2f10d740, type: 2}
+  - {fileID: 114845780581909720, guid: 28a05059f88c84740925c9e974ca3134, type: 2}
+  - {fileID: 114234581037819620, guid: deb16e61fb55e5a4b8c2c7064ee1f592, type: 2}
+  m_stone:
+  - {fileID: 114255941734085938, guid: 842e69d0fb007bd468d4405452fa767e, type: 2}
+  - {fileID: 114538326936884634, guid: 5b0e1182f5e3d8443b832ae4a68af2ba, type: 2}
+  - {fileID: 114195148324435892, guid: facf1dffd1760aa4884855a8b9f576bd, type: 2}
+  - {fileID: 114654117729359760, guid: 1a2382f21bf3efd458cb5c15da625a0c, type: 2}
+  - {fileID: 114965392816303878, guid: b4503f80359799a4bbcb80bfa0581cab, type: 2}
+  - {fileID: 114975624985016824, guid: 2578b44b7b9af2e42bcd3397085dc132, type: 2}
+  - {fileID: 114641301879621768, guid: 5a22a00b4bb9f674293fbfb9658ddb5e, type: 2}
+  - {fileID: 114304801342896348, guid: 0eac1926844ac5043a366bd4f2e0a536, type: 2}
+  - {fileID: 114597793929049726, guid: 0be6eced243a0ef4ca12cb90c990be7f, type: 2}

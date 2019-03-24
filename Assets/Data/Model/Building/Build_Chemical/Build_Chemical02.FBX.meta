@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: fc5be6763d8904341807e7ee8ad55f64
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Build_Chemical02
+    100004: Build_Chemical02_Box01
+    100006: Build_Chemical02_Box02
+    100008: Build_Chemical02_Box03
+    100010: Build_Chemical02_Fan01
+    100012: Build_Chemical02_Fan02
+    100014: Build_Chemical02_Pipe01
+    100016: Build_Chemical02_Pipe02
+    100018: Build_Chemical02_Pipe03
+    100020: Build_Chemical02_Roof01
+    100022: Build_Chemical02_Roof02
+    100024: Build_Chemical02_Warehouse01
+    100026: Build_Chemical02_Warehouse02
+    100028: Build_Chemical02_Fan
+    400000: //RootNode
+    400002: Build_Chemical02
+    400004: Build_Chemical02_Box01
+    400006: Build_Chemical02_Box02
+    400008: Build_Chemical02_Box03
+    400010: Build_Chemical02_Fan01
+    400012: Build_Chemical02_Fan02
+    400014: Build_Chemical02_Pipe01
+    400016: Build_Chemical02_Pipe02
+    400018: Build_Chemical02_Pipe03
+    400020: Build_Chemical02_Roof01
+    400022: Build_Chemical02_Roof02
+    400024: Build_Chemical02_Warehouse01
+    400026: Build_Chemical02_Warehouse02
+    400028: Build_Chemical02_Fan
+    2100000: 'Material #37'
+    2300000: //RootNode
+    2300002: Build_Chemical02
+    2300004: Build_Chemical02_Box01
+    2300006: Build_Chemical02_Box02
+    2300008: Build_Chemical02_Box03
+    2300010: Build_Chemical02_Fan01
+    2300012: Build_Chemical02_Fan02
+    2300014: Build_Chemical02_Pipe01
+    2300016: Build_Chemical02_Pipe02
+    2300018: Build_Chemical02_Pipe03
+    2300020: Build_Chemical02_Roof01
+    2300022: Build_Chemical02_Roof02
+    2300024: Build_Chemical02_Warehouse01
+    2300026: Build_Chemical02_Warehouse02
+    2300028: Build_Chemical02_Fan
+    3300000: //RootNode
+    3300002: Build_Chemical02
+    3300004: Build_Chemical02_Box01
+    3300006: Build_Chemical02_Box02
+    3300008: Build_Chemical02_Box03
+    3300010: Build_Chemical02_Fan01
+    3300012: Build_Chemical02_Fan02
+    3300014: Build_Chemical02_Pipe01
+    3300016: Build_Chemical02_Pipe02
+    3300018: Build_Chemical02_Pipe03
+    3300020: Build_Chemical02_Roof01
+    3300022: Build_Chemical02_Roof02
+    3300024: Build_Chemical02_Warehouse01
+    3300026: Build_Chemical02_Warehouse02
+    3300028: Build_Chemical02_Fan
+    4300000: Build_Chemical02
+    4300002: Object147
+    4300004: Build_Chemical02_Fan01
+    4300006: Build_Chemical02_Box01
+    4300008: Build_Chemical02_Pipe02
+    4300010: Build_Chemical02_Box03
+    4300012: Build_Chemical02_Box02
+    4300014: Build_Chemical02_Roof01
+    4300016: Build_Chemical02_Roof02
+    4300018: Build_Chemical02_Pipe01
+    4300020: Build_Chemical02_Pipe03
+    4300022: Build_Chemical02_Fan02
+    4300024: Build_Chemical02_Warehouse01
+    4300026: Build_Chemical02_Warehouse02
+    4300028: Build_Chemical02_Fan
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

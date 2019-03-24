@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Grass 03
+  m_Shader: {fileID: 4800000, guid: 2fc7fdf26837b9f4881a575645a69a3a, type: 3}
+  m_ShaderKeywords: _ALPHAFROM_MAIN _ALPHATEST_ON _ENABLEGLOBALMOTION_ON _ENABLEWINDMOTION_ON
+    _ENABLEWIND_ON _MOTIONNOISE_ON _RENDERTYPE_CUT _SYMBOLMODE_DECAL
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 1b52f5a8a3b791b4cac357f269295be8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 37283dd29ed17ec4cb5258c6d5973539, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SymbolTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex3coord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex3coord3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex3coord4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaFade: 0
+    - _AlphaFrom: 0
+    - _BackFace: 1
+    - _BackLight: 1
+    - _BlackRemap: 0.3
+    - _BumpScale: 1
+    - _CullMode: 0
+    - _Cutoff: 0.1
+    - _Cutout: 0
+    - _DepthWrite: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EdgeLength: 15
+    - _EnableDebug: 0
+    - _EnableGlobalMotion: 1
+    - _EnableLocalMotion: 0
+    - _EnableSize: 0
+    - _EnableSymbol: 0
+    - _EnableWind: 1
+    - _EnableWindMotion: 1
+    - _Float0: 2
+    - _Float3: 0
+    - _GlobalGrassSize: 0
+    - _GlobalGrassTint: 0
+    - _GlobalSize: 0
+    - _GlobalTint: 0
+    - _Glosiness: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GrassSize: 0
+    - _GrassTint: 0
+    - _LocalAmplitude: 0.1
+    - _LocalFrequency: 30
+    - _LocalScale: 5
+    - _LocalSpeed: 10
+    - _MaskAxis: 1
+    - _MaskMax: 0.5
+    - _MaskMin: 0
+    - _MaskType: 1
+    - _Metallic: 0
+    - _Mode: 1
+    - _MotionAmplitude: 0.1
+    - _MotionMask: 0
+    - _MotionNoise: 1
+    - _MotionScale: 2
+    - _MotionSpeed: 5
+    - _ObjectBounciness: 0
+    - _ObjectStiffness: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Shininess: 1
+    - _ShowMask: 0
+    - _ShowMotionDebug: 0
+    - _Show_GrassSize: 1
+    - _Show_GrassTint: 1
+    - _Show_MaskGeneric: 1
+    - _Show_MotionNoise: 1
+    - _Smoothn: 2.41
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SymbolMode: 0
+    - _SymbolMultiplied: 0
+    - _SymbolRotation: 0
+    - _SymbolisSticker: 0
+    - _Transparency: 0.1
+    - _UVSec: 0
+    - _WhiteRemap: 1
+    - _WindMask: 0
+    - _WindMode: 2
+    - _WindMultiplier: 0.5
+    - _ZWrite: 1
+    - __dirty: 1
+    m_Colors:
+    - _AlphaUVs: {r: 1, g: 1, b: 0, a: 0}
+    - _Color: {r: 0.78617, g: 0.9632353, b: 0.8899669, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LocalDirection: {r: 1, g: 0, b: 1, a: 0}
+    - _MainUVs: {r: 1, g: 1, b: 0, a: 0}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SymbolColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SymbolUVs: {r: 1, g: 1, b: 1, a: 0}

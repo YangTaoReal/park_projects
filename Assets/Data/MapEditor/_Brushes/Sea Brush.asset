@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eac26cb901f44e8aa1d9554680b6b53, type: 3}
+  m_Name: Sea Brush
+  m_EditorClassIdentifier: 
+  useId: 1
+  m_cfgId: 854e0000
+  m_Prefabs:
+  - {fileID: 114621744991947540, guid: 1b3711efbc7c9e646b39a41f8e2584bf, type: 2}
+  m_Z: 0
+  m_Level: 0

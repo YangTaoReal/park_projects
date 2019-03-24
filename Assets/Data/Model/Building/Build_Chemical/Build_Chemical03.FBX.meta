@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 2636b3029d95c744ba8f8c584dde451b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Build_Chemical03
+    100004: Object157
+    100006: Object160
+    100008: Object161
+    100010: Object162
+    100012: Object167
+    100014: Object168
+    100016: Object170
+    100018: SM_Prop_Roof_Aircon_004
+    100020: SM_Prop_Roof_Aircon_03
+    100022: Npc_Expert01
+    100024: Object165
+    100026: Object166
+    100028: Build_Chemical03_Box01
+    100030: Build_Chemical03_Box02
+    100032: Build_Chemical03_Case01
+    100034: Build_Chemical03_Case02
+    100036: Build_Chemical03_Case03
+    100038: Build_Chemical03_Case04
+    100040: Build_Chemical03_Pipe
+    100042: Build_Chemical03_Roof01
+    100044: Build_Chemical03_Roof02
+    100046: Build_Chemical03_Switch01
+    100048: Build_Chemical03_Switch02
+    100050: Build_Chemical03_Turbine01
+    100052: Build_Chemical03_Turbine02
+    100054: Object173
+    100056: Object174
+    100058: Object179
+    400000: //RootNode
+    400002: Build_Chemical03
+    400004: Object157
+    400006: Object160
+    400008: Object161
+    400010: Object162
+    400012: Object167
+    400014: Object168
+    400016: Object170
+    400018: SM_Prop_Roof_Aircon_004
+    400020: SM_Prop_Roof_Aircon_03
+    400022: Npc_Expert01
+    400024: Object165
+    400026: Object166
+    400028: Build_Chemical03_Box01
+    400030: Build_Chemical03_Box02
+    400032: Build_Chemical03_Case01
+    400034: Build_Chemical03_Case02
+    400036: Build_Chemical03_Case03
+    400038: Build_Chemical03_Case04
+    400040: Build_Chemical03_Pipe
+    400042: Build_Chemical03_Roof01
+    400044: Build_Chemical03_Roof02
+    400046: Build_Chemical03_Switch01
+    400048: Build_Chemical03_Switch02
+    400050: Build_Chemical03_Turbine01
+    400052: Build_Chemical03_Turbine02
+    400054: Object173
+    400056: Object174
+    400058: Object179
+    2100000: 'Material #37'
+    2300000: //RootNode
+    2300002: Build_Chemical03
+    2300004: Object157
+    2300006: Object160
+    2300008: Object161
+    2300010: Object162
+    2300012: Object167
+    2300014: Object168
+    2300016: Object170
+    2300018: SM_Prop_Roof_Aircon_004
+    2300020: SM_Prop_Roof_Aircon_03
+    2300022: Npc_Expert01
+    2300024: Object165
+    2300026: Object166
+    2300028: Build_Chemical03_Box01
+    2300030: Build_Chemical03_Box02
+    2300032: Build_Chemical03_Case01
+    2300034: Build_Chemical03_Case02
+    2300036: Build_Chemical03_Case03
+    2300038: Build_Chemical03_Case04
+    2300040: Build_Chemical03_Pipe
+    2300042: Build_Chemical03_Roof01
+    2300044: Build_Chemical03_Roof02
+    2300046: Build_Chemical03_Switch01
+    2300048: Build_Chemical03_Switch02
+    2300050: Build_Chemical03_Turbine01
+    2300052: Build_Chemical03_Turbine02
+    2300054: Object173
+    2300056: Object174
+    2300058: Object179
+    3300000: //RootNode
+    3300002: Build_Chemical03
+    3300004: Object157
+    3300006: Object160
+    3300008: Object161
+    3300010: Object162
+    3300012: Object167
+    3300014: Object168
+    3300016: Object170
+    3300018: SM_Prop_Roof_Aircon_004
+    3300020: SM_Prop_Roof_Aircon_03
+    3300022: Npc_Expert01
+    3300024: Object165
+    3300026: Object166
+    3300028: Build_Chemical03_Box01
+    3300030: Build_Chemical03_Box02
+    3300032: Build_Chemical03_Case01
+    3300034: Build_Chemical03_Case02
+    3300036: Build_Chemical03_Case03
+    3300038: Build_Chemical03_Case04
+    3300040: Build_Chemical03_Pipe
+    3300042: Build_Chemical03_Roof01
+    3300044: Build_Chemical03_Roof02
+    3300046: Build_Chemical03_Switch01
+    3300048: Build_Chemical03_Switch02
+    3300050: Build_Chemical03_Turbine01
+    3300052: Build_Chemical03_Turbine02
+    3300054: Object173
+    3300056: Object174
+    3300058: Object179
+    4300000: Build_Chemical03
+    4300002: Object157
+    4300004: Object160
+    4300006: Object161
+    4300008: Object162
+    4300010: Object167
+    4300012: Object168
+    4300014: Object170
+    4300016: SM_Prop_Roof_Aircon_03
+    4300018: SM_Prop_Roof_Aircon_004
+    4300020: Npc_Expert01
+    4300022: Object165
+    4300024: Object166
+    4300026: Build_Chemical03_Switch01
+    4300028: Build_Chemical03_Box02
+    4300030: Build_Chemical03_Switch02
+    4300032: Build_Chemical03_Turbine02
+    4300034: Build_Chemical03_Turbine01
+    4300036: Build_Chemical03_Pipe
+    4300038: Build_Chemical03_Roof01
+    4300040: Build_Chemical03_Roof02
+    4300042: Object173
+    4300044: Object174
+    4300046: Build_Chemical03_Case01
+    4300048: Build_Chemical03_Case02
+    4300050: Build_Chemical03_Case03
+    4300052: Build_Chemical03_Case04
+    4300054: Object179
+    4300056: Build_Chemical03_Box01
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

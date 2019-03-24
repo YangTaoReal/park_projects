@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: ADS Grass Tint
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15500\n1927;29;1906;1014;1035.318;422.2989;1.280148;True;False\nNode;AmplifyShaderEditor.SaturateNode;118;256,432;Float;False;1;0;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.RangedFloatNode;112;128,192;Half;False;Property;_GrassTint;Grass
+    Tint;0;1;[Toggle];Create;True;0;0;False;0;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;95;128,512;Half;False;Constant;_Float1;Float
+    1;1;0;Create;True;0;0;False;0;1;0.5;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;81;-1536,128;Float;False;2;2;0;FLOAT2;0,0;False;1;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;110;464,128;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.ConditionalIfNode;96;640,384;Float;False;True;5;0;FLOAT;0;False;1;FLOAT;0;False;2;COLOR;0,0,0,0;False;3;FLOAT;0;False;4;FLOAT;0;False;1;COLOR;0\nNode;AmplifyShaderEditor.LerpOp;126;-128,432;Float;False;3;0;COLOR;0,0,0,0;False;1;COLOR;0,0,0,0;False;2;FLOAT;0;False;1;COLOR;0\nNode;AmplifyShaderEditor.SaturateNode;125;-384,576;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;94;128,128;Half;False;Global;ADS_GrassTintTex_ON;ADS_GrassTintTex_ON;4;0;Create;False;0;0;False;0;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.WorldPosInputsNode;69;-2048,128;Float;False;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.RangedFloatNode;97;128,336;Half;False;Constant;_Float2;Float
+    2;1;0;Create;True;0;0;False;0;0.5;0.5;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.Vector4Node;101;-2048,288;Half;False;Global;ADS_GrassTintScaleOffset;ADS_GrassTintScaleOffset;1;0;Create;True;0;0;False;0;0,0,0,0;0.1,0.1,0,0;0;5;FLOAT4;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.SamplerNode;75;-1152,128;Float;True;Global;ADS_GrassTintTex;ADS_GrassTintTex;1;1;[NoScaleOffset];Create;True;0;0;False;0;None;c57cd7b288227d24380f7a035e911136;True;0;False;white;Auto;False;Object;-1;Auto;Texture2D;6;0;SAMPLER2D;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.SwizzleNode;104;-1728,288;Float;False;FLOAT2;0;1;2;2;1;0;FLOAT4;0,0,0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SwizzleNode;102;-1728,128;Float;False;FLOAT2;0;2;2;2;1;0;FLOAT3;0,0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.RangedFloatNode;117;-640,576;Half;False;Global;ADS_GrassTintIntensity;ADS_GrassTintIntensity;1;0;Create;False;0;0;False;0;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.SwizzleNode;105;-1728,368;Float;False;FLOAT2;2;3;2;2;1;0;FLOAT4;0,0,0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.LerpOp;121;-576,256;Float;False;3;0;COLOR;0,0,0,0;False;1;COLOR;0,0,0,0;False;2;FLOAT;0;False;1;COLOR;0\nNode;AmplifyShaderEditor.RangedFloatNode;120;-1152,752;Half;False;Global;ADS_GrassTintModeColors;ADS_GrassTintModeColors;1;0;Create;False;0;0;False;0;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;127;-384,128;Half;False;Constant;_Float0;Float
+    0;3;0;Create;True;0;0;False;0;1;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.LerpOp;115;-768,288;Float;False;3;0;COLOR;0,0,0,0;False;1;COLOR;0,0,0,0;False;2;FLOAT;0;False;1;COLOR;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;103;-1344,128;Float;False;2;2;0;FLOAT2;0,0;False;1;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;116;-384,432;Float;False;2;2;0;COLOR;0,0,0,0;False;1;FLOAT;0;False;1;COLOR;0\nNode;AmplifyShaderEditor.ColorNode;114;-1152,576;Half;False;Global;ADS_GrassTintColorTwo;ADS_GrassTintColorTwo;1;0;Create;False;0;0;False;0;0,0,0,0;0.8676471,0.5212921,0.08293682,1;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.ColorNode;113;-1152,384;Half;False;Global;ADS_GrassTintColorOne;ADS_GrassTintColorOne;1;0;Create;False;0;0;False;0;0,0,0,0;0.839351,1,0.2720588,1;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.FunctionOutput;85;1280,384;Float;False;True;Tint;0;False;1;0;COLOR;0,0,0,0;False;1;COLOR;0\nWireConnection;118;0;126;0\nWireConnection;81;0;102;0\nWireConnection;81;1;104;0\nWireConnection;110;0;94;0\nWireConnection;110;1;112;0\nWireConnection;96;0;110;0\nWireConnection;96;1;97;0\nWireConnection;96;2;118;0\nWireConnection;96;4;95;0\nWireConnection;126;0;127;0\nWireConnection;126;1;116;0\nWireConnection;126;2;125;0\nWireConnection;125;0;117;0\nWireConnection;75;1;103;0\nWireConnection;104;0;101;0\nWireConnection;102;0;69;0\nWireConnection;105;0;101;0\nWireConnection;121;0;75;0\nWireConnection;121;1;115;0\nWireConnection;121;2;120;0\nWireConnection;115;0;113;0\nWireConnection;115;1;114;0\nWireConnection;115;2;75;1\nWireConnection;103;0;81;0\nWireConnection;103;1;105;0\nWireConnection;116;0;121;0\nWireConnection;116;1;117;0\nWireConnection;85;0;96;0\nASEEND*/\n//CHKSM=528394A6BB3ED7E2C382C20E4EE0B56BAEC796A5"
+  m_functionName: 
+  m_description: Global Grass Tint Function.
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 0
+  m_customNodeCategory: Advanced Dynamic Shaders
+  m_previewPosition: 0

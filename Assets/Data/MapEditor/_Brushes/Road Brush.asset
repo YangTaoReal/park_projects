@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea0fed5391b04241b3c7908b20d5f1d, type: 3}
+  m_Name: Road Brush
+  m_EditorClassIdentifier: 
+  m_Z: 0
+  m_flag2: 1
+  m_flag3: 1
+  m_flag4: 1
+  m_gameObjects:
+  - {fileID: 114832927981951012, guid: 7b314c1225e12844181e7f28aa25e6bb, type: 2}
+  - {fileID: 114388610747039750, guid: 07d5b5be77112b44ba97df68619e29b7, type: 2}
+  - {fileID: 114064133805233930, guid: f1acca93b31118c43aa41b4c6358f7cb, type: 2}
+  - {fileID: 114364113119294148, guid: 73d9aa46c1917804dbbe65c0a88a0f41, type: 2}
+  - {fileID: 114357586399725540, guid: 81f44963298b5c54c99c073edb77d554, type: 2}
+  - {fileID: 114129022824908632, guid: 3dac037f16f5e0948a5b6563c33f099b, type: 2}
+  editGameObjects: []

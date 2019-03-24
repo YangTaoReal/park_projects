@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: ADS Motion Noise
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15500\n1927;29;1906;1014;1043.143;437.9521;1;True;False\nNode;AmplifyShaderEditor.RangedFloatNode;82;-1664,256;Half;False;Global;ADS_NoiseScale;ADS_NoiseScale;6;0;Create;True;0;0;False;0;0.05;0.05;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;81;-1408,128;Float;False;2;2;0;FLOAT2;0,0;False;1;FLOAT;0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;101;64,128;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.PowerNode;77;-384,304;Float;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.ConditionalIfNode;94;256,256;Float;False;True;5;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;0;False;4;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;92;-1408,352;Float;False;2;2;0;FLOAT;0;False;1;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.WorldPosInputsNode;69;-2048,128;Float;False;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.DynamicAppendNode;115;-1792,128;Float;False;FLOAT2;4;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.RangedFloatNode;119;-192,112;Float;False;Property;_MotionNoise;Motion
+    Noise;0;1;[Toggle];Create;True;0;0;False;1;Header(Globals);1;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;96;-192,208;Half;False;Constant;_Float1;Float
+    1;1;0;Create;True;0;0;False;0;0.01;0.5;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.PannerNode;73;-1216,128;Float;False;3;0;FLOAT2;0,0;False;2;FLOAT2;0,0;False;1;FLOAT;1;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.RangedFloatNode;71;-1664,352;Half;False;Global;ADS_NoiseSpeed;ADS_NoiseSpeed;6;0;Create;True;0;0;False;0;0.05;0.05;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.SaturateNode;116;-192,304;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.AbsOpNode;100;-560,240;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;76;-896,384;Half;False;Global;ADS_NoiseContrast;ADS_NoiseContrast;4;0;Create;False;0;0;False;0;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleTimeNode;80;-1408,512;Float;False;1;0;FLOAT;1;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;95;-192,32;Half;False;Global;ADS_NoiseTex_ON;ADS_NoiseTex_ON;4;0;Create;True;0;0;False;0;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.NegateNode;91;-1792,448;Float;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.RangedFloatNode;97;-192,384;Half;False;Constant;_Float2;Float
+    2;1;0;Create;True;0;0;False;0;1;0.5;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.Vector3Node;89;-2048,384;Half;False;Global;ADS_GlobalDirection;ADS_GlobalDirection;1;0;Create;True;0;0;False;0;0,0,0;-0.3510509,0.05887629,0.9345036;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.ComponentMaskNode;88;-1664,448;Float;False;True;False;True;True;1;0;FLOAT3;0,0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SamplerNode;75;-896,128;Float;True;Global;ADS_NoiseTex;ADS_NoiseTex;1;1;[NoScaleOffset];Create;True;0;0;False;0;None;b5e309af08e6afd449344637904e7cc8;True;0;False;black;Auto;False;Object;-1;Auto;Texture2D;6;0;SAMPLER2D;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.FunctionOutput;85;512,256;Float;False;True;Noise;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;81;0;115;0\nWireConnection;81;1;82;0\nWireConnection;101;0;95;0\nWireConnection;101;1;119;0\nWireConnection;77;0;100;0\nWireConnection;77;1;76;0\nWireConnection;94;0;101;0\nWireConnection;94;1;96;0\nWireConnection;94;2;116;0\nWireConnection;94;4;97;0\nWireConnection;92;0;71;0\nWireConnection;92;1;88;0\nWireConnection;115;0;69;1\nWireConnection;115;1;69;3\nWireConnection;73;0;81;0\nWireConnection;73;2;92;0\nWireConnection;73;1;80;0\nWireConnection;116;0;77;0\nWireConnection;100;0;75;1\nWireConnection;91;0;89;0\nWireConnection;88;0;91;0\nWireConnection;75;1;73;0\nWireConnection;85;0;94;0\nASEEND*/\n//CHKSM=FBA5A01AE8FD196043E3E6A0C614D89E6B25D28B"
+  m_functionName: 
+  m_description: Global Noise Function.
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 10
+  m_customNodeCategory: Advanced Dynamic Shaders
+  m_previewPosition: 0
